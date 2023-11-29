@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e37e6abc-6afe-4e5f-9531-e6e75f763051": {
+      "ProjectGuid": "e37e6abc-6afe-4e5f-9531-e6e75f763051",
+      "DisplayName": "Debug",
+      "ColorIndex": 0
+    },
+    "c48b2111-cebf-4a8d-8061-ee2f9c30a8b1": {
+      "ProjectGuid": "c48b2111-cebf-4a8d-8061-ee2f9c30a8b1",
+      "DisplayName": "ClassMapper",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

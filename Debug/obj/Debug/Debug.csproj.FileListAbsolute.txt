@@ -1,0 +1,8 @@
+U:\02_BMW\Mapper\ClassMapper\Debug\bin\Debug\Debug.exe.config
+U:\02_BMW\Mapper\ClassMapper\Debug\bin\Debug\Debug.exe
+U:\02_BMW\Mapper\ClassMapper\Debug\bin\Debug\Debug.pdb
+U:\02_BMW\Mapper\ClassMapper\Debug\bin\Debug\ClassMapper.dll
+U:\02_BMW\Mapper\ClassMapper\Debug\bin\Debug\ClassMapper.pdb
+U:\02_BMW\Mapper\ClassMapper\Debug\obj\Debug\Debug.csprojResolveAssemblyReference.cache
+U:\02_BMW\Mapper\ClassMapper\Debug\obj\Debug\Debug.exe
+U:\02_BMW\Mapper\ClassMapper\Debug\obj\Debug\Debug.pdb
